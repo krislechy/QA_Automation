@@ -1,0 +1,10 @@
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.exe.config
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.exe
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.pdb
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.dll
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.xml
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.AssemblyReference.cache
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.CoreCompileInputs.cache
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.CopyComplete
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.exe
+D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.pdb

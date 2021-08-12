@@ -1,0 +1,7 @@
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe.config
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.pdb
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.CoreCompileInputs.cache
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.exe
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.pdb
+C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.AssemblyReference.cache
