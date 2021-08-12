@@ -68,10 +68,12 @@ namespace SeleniumApp
                     if (_case >= dictionary.Count() || _case < 1)
                     {
                         Console.WriteLine("Неверный номер, выберите другой");
-                        selected = Console.ReadLine();
                     }
                     else break;
                 }
+                else
+                    Console.WriteLine("Введенное значение не является числом");
+                selected = Console.ReadLine();
             }
             var department_link = chrome.FindElementByLinkText(dictionary[_case]);
             ScriptClick(department_link);
