@@ -82,6 +82,7 @@ namespace TaskKiller
                         catch (Exception ex)
                         {
                             Console.WriteLine(ex.Message);
+                            return;
                         }
                     }
                     else
