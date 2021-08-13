@@ -102,8 +102,8 @@ namespace SeleniumApp
             var checkboxs = input_language.FindElements(By.TagName("input")).Where(x => x.GetAttribute("id") == str_language);
             if (checkboxs != null && checkboxs.Count() > 0)
             {
-                var englanguage = checkboxs.First();
-                ScriptClick(englanguage);
+                var input_checkbox = checkboxs.First();
+                ScriptClick(input_checkbox);
             }
             var tt = chrome.FindElementsByTagName("a").Where(x => x.GetAttribute("class") == "card card-no-hover card-sm");
             var result = new List<Vacancies>();
