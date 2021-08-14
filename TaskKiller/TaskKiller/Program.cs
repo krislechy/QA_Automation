@@ -29,6 +29,7 @@ namespace TaskKiller
                         bool is_interval = Int32.TryParse(args[2], out Interval);
                         if (is_interval && Interval > 0)
                         {
+                            //инициализируем таймер и запускаем его
                             StartTimer();
                         }
                         else Console.WriteLine("Значение параметра \"{0}\" не является натуральным числом или он меньше или равняется 0.", args[2]);
