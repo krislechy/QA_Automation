@@ -1,2 +1,2 @@
 # QA_Automation
-Projects for the QA_Automation vacancy in the company [Veeam](https://careers.veeam.ru/)
+Projects for the QA Automation vacancy in the company [Veeam](https://careers.veeam.ru/)
