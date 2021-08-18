@@ -5,3 +5,10 @@ C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\Ta
 C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.exe
 C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.pdb
 C:\Main\Programs\VS\testprojects\QAAutomation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.AssemblyReference.cache
+d:\VS\QA_Automation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe.config
+d:\VS\QA_Automation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.exe
+d:\VS\QA_Automation\TaskKiller\TaskKiller\bin\Debug\TaskKiller.pdb
+d:\VS\QA_Automation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.AssemblyReference.cache
+d:\VS\QA_Automation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.csproj.CoreCompileInputs.cache
+d:\VS\QA_Automation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.exe
+d:\VS\QA_Automation\TaskKiller\TaskKiller\obj\Debug\TaskKiller.pdb

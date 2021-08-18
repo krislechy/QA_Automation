@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS\\QA_Automation\\TaskKiller\\Test_TaskKiller\\Test_TaskKiller.csproj": {}
+  },
+  "projects": {
+    "d:\\VS\\QA_Automation\\TaskKiller\\TaskKiller\\TaskKiller.csproj": {
+      "restore": {
+        "projectUniqueName": "d:\\VS\\QA_Automation\\TaskKiller\\TaskKiller\\TaskKiller.csproj",
+        "projectName": "TaskKiller",
+        "projectPath": "d:\\VS\\QA_Automation\\TaskKiller\\TaskKiller\\TaskKiller.csproj"
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\VS\\QA_Automation\\TaskKiller\\Test_TaskKiller\\Test_TaskKiller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS\\QA_Automation\\TaskKiller\\Test_TaskKiller\\Test_TaskKiller.csproj",
+        "projectName": "Test_TaskKiller",
+        "projectPath": "D:\\VS\\QA_Automation\\TaskKiller\\Test_TaskKiller\\Test_TaskKiller.csproj",
+        "packagesPath": "C:\\Users\\krislechy\\.nuget\\packages\\",
+        "outputPath": "D:\\VS\\QA_Automation\\TaskKiller\\Test_TaskKiller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\krislechy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\VS\\QA_Automation\\TaskKiller\\TaskKiller\\TaskKiller.csproj": {
+                "projectPath": "D:\\VS\\QA_Automation\\TaskKiller\\TaskKiller\\TaskKiller.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

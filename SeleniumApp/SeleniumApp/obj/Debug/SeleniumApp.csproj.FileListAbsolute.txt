@@ -8,3 +8,16 @@ D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.cs
 D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.CopyComplete
 D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.exe
 D:\VS\testprojects\QAAutomation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.pdb
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.exe.config
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.exe
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumApp.pdb
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.dll
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.xml
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.AssemblyReference.cache
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.CoreCompileInputs.cache
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.csproj.CopyComplete
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.exe
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\obj\Debug\SeleniumApp.pdb
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.Support.dll
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\WebDriver.Support.xml
+d:\VS\QA_Automation\SeleniumApp\SeleniumApp\bin\Debug\SeleniumExtras.PageObjects.dll
