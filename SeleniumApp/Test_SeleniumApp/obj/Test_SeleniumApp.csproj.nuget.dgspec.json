@@ -4,11 +4,11 @@
     "D:\\VS\\QA_Automation\\SeleniumApp\\Test_SeleniumApp\\Test_SeleniumApp.csproj": {}
   },
   "projects": {
-    "d:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj": {
+    "D:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj": {
       "restore": {
-        "projectUniqueName": "d:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj",
+        "projectUniqueName": "D:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj",
         "projectName": "SeleniumApp",
-        "projectPath": "d:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj"
+        "projectPath": "D:\\VS\\QA_Automation\\SeleniumApp\\SeleniumApp\\SeleniumApp.csproj"
       },
       "frameworks": {
         "net48": {}
