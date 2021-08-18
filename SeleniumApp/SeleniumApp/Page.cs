@@ -43,14 +43,13 @@ namespace SeleniumApp
         }
         public IWebDriver driver;
 
-        public void Main(string[] args)
+        public Page(TypeDriver type, bool HideCommandPromptWindow, TimeSpan ts)
         {
-            InitBrowser(TypeDriver.Chrome, true, TimeSpan.FromSeconds(10));
-            GoToUrl("https://careers.veeam.ru/vacancies", true);
-            var ListOfVacancies = FindCountVacancies(TypeLanguage.Russian, "Разработка продуктов");
-            var result = ResultVacancies(ListOfVacancies);
-            Console.WriteLine($"Количество найденных вакансий {result}");
-            Console.ReadKey();
+            InitBrowser(type, HideCommandPromptWindow, ts);
+        }
+        public Page()
+        {
+
         }
         /// <summary>
         /// Инициализация веб-драйвера

@@ -17,9 +17,8 @@ namespace SeleniumApp
     {
         public static void Main(string[] args)
         {
-            using (Page page = new Page())
+            using (Page page = new Page(TypeDriver.Chrome, true, TimeSpan.FromSeconds(10)))
             {
-                page.InitBrowser(TypeDriver.Chrome, true, TimeSpan.FromSeconds(10));
                 page.GoToUrl("https://careers.veeam.ru/vacancies", true);
                 var ListOfVacancies = page.FindCountVacancies(TypeLanguage.Russian, "Разработка продуктов");
                 var result = page.ResultVacancies(ListOfVacancies);
