@@ -30,9 +30,14 @@ namespace SeleniumApp
         {
             if (driver != null)
             {
-                driver.Close();
-                driver.Quit();
+                if (!String.IsNullOrEmpty(driver.CurrentWindowHandle))
+                {
+                    driver.Close();
+                    driver.Quit();
+                }
+                driver.Dispose();
             }
+            //GC.Collect(1,GCCollectionMode.Forced);
             return;
         }
         public class Vacancies
